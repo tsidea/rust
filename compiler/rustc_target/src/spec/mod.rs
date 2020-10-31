@@ -559,6 +559,8 @@ supported_targets! {
     ("avr-unknown-gnu-atmega328", avr_unknown_gnu_atmega328),
 
     ("x86_64-unknown-l4re-uclibc", x86_64_unknown_l4re_uclibc),
+    
+    ("armv7-unknown-linux-uclibceabihf", armv7_unknown_linux_uclibceabihf),
 
     ("aarch64-unknown-redox", aarch64_unknown_redox),
     ("x86_64-unknown-redox", x86_64_unknown_redox),
